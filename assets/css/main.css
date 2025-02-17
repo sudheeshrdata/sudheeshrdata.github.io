@@ -708,6 +708,14 @@ section,
 /*--------------------------------------------------------------
 # Skills Section
 --------------------------------------------------------------*/
+.mb-1 {
+  margin-bottom: -20px !important;  /* Adjust as needed */
+}
+
+.pb-0 {
+  padding-bottom: 20px !important;  /* Adjust as needed */
+}
+
 .skills .progress {
   height: 60px;
   display: block;
