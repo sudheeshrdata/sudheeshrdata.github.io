@@ -633,7 +633,10 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
-
+.about .section-title h2{
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
 
 .about .content {
   padding: 5px; /* Adds spacing inside the content box */
