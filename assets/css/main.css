@@ -633,6 +633,12 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+
+.about .section-title {
+  padding-bottom: 30px;
+  position: relative;
+}
+
 .about .section-title h2{
   margin-bottom: 30px;
   padding-bottom: 20px;
