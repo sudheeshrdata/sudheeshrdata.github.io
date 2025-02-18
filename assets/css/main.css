@@ -142,6 +142,18 @@ h6 {
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
+
+.container, 
+.container-fluid, 
+.container-lg, 
+.container-md, 
+.container-sm, 
+.container-xl, 
+.container-xxl {
+  --bs-gutter-x: 2.4rem; /* Adjust the horizontal spacing */
+  --bs-gutter-y: 0rem; /* Adjust the vertical spacing */
+}
+
 .container {
   margin: 10px; /* Adds space around the content */
 }
