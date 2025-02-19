@@ -558,6 +558,11 @@ section,
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+
+.hero p, .typed {
+  color: #fff;
+}
+
 .hero {
   display: flex;
   justify-content: center; /* Centers horizontally */
